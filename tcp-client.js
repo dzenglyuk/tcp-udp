@@ -3,7 +3,7 @@ const readline = require('readline-sync');
 const colors = require('colors');
 
 const host = '127.0.0.1';
-const port = 4000;
+const port = 3000;
 
 let client = null;
 
